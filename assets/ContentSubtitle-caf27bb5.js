@@ -1,0 +1,1 @@
+import{u as s,o,c}from"./index-96262fca.js";const l=["innerHTML"],_={__name:"ContentSubtitle",props:["componentData","testStyle"],setup(t){s(n=>({c2cee292:t.testStyle.subtitleColor}));const e=t;return(n,a)=>(o(),c("div",{innerHTML:e.componentData.subtitle,class:"content-subtitle"},null,8,l))}};export{_ as default};
